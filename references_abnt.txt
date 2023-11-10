@@ -1,0 +1,14 @@
+HOSTINGER. O Que É MySQL? Guia Simples e Direto para Iniciantes?. Disponível em: https://www.hostinger.com.br/tutoriais/o-que-e-mysql. Acesso em: 10 Nov. 2023.
+
+DEVMEDIA. Primeiros Passos no MySQL. Disponível em: https://www.devmedia.com.br/primeiros-passos-no-mysql/28438. Acesso em: 10 Nov. 2023.
+
+MYSQL. Unmatched price performance. Disponível em: https://dev.mysql.com/doc/. Acesso em: 10 Nov. 2023.
+
+ORACLE. Oracle | Cloud Applications and Cloud Platform. Disponível em: https://www.oracle.com/br/. Acesso em: 10 Nov. 2023.
+
+EBC. Estudo do Ipea mostra que 65% da população usam transporte público nas capitais. Disponível em: http://memoria.ebc.com.br/agenciabrasil/noticia/2011-05-04/estudo-do-ipea-mostra-que-65-da-populacao-usam-transporte-publico-nas-capitais#:~:text=Segundo%20ele%2C%20entre%20os%20motivos,poucas%20unidades%20circulando%20pelas%20ruas.. Acesso em: 10 Nov. 2023.
+
+UFSCAR. Modelagem de banco de dados georreferenciado para subsidiar a gestão do transporte coletivo urbano. Disponível em: https://repositorio.ufscar.br/handle/ufscar/4261. Acesso em: 10 Nov. 2023.
+
+WIKIPEDIA. Hirohiko Araki. Disponível em: https://pt.wikipedia.org/wiki/Hirohiko_Araki. Acesso em: 10 Nov. 2023.
+
