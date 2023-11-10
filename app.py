@@ -23,8 +23,8 @@ with open('./abnt_reference_text_generator/sites.txt', 'r') as sites:
         host = urlparse(link).netloc.split('.')[1]
         # Acessar o website atual
         driver.get(link)
-        # Pegar o valor do primeiro H1 que estiver no website atual
         sleep(1)
+        # Pegar o valor do primeiro H1 que estiver no website atual, senão, tenta pegar de outras formas (h1.title, h2.page-header, h2.title, h2, title)
         try:
             h1_title = WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.XPATH, "//h1[@class='title']"))).text or WebDriverWait(driver, 3).until(EC.presence_of_element_located(locator=(By.XPATH, "//h1[@class='page-header']"))).text
         except TimeoutException:
